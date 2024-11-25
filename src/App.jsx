@@ -1,5 +1,5 @@
 function App() {
-  return <div></div>;
+  return <div>react-toastify</div>;
 }
 
 export default App;
